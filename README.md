@@ -26,6 +26,7 @@
 ### Арбитраж и операционка
 - Offer Database
 - Lead Monetization Funnel
+- Lead Acquisition Playbook
 - Experiments
 - Weekly Dashboard
 - Decision Log
