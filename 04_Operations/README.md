@@ -7,3 +7,4 @@
 - [Decision Log](17.%20Decision%20Log.md)
 - [Weekly Dashboard](18.%20Weekly%20Dashboard.md)
 - [Lead Monetization Funnel](20.%20Lead%20Monetization%20Funnel.md)
+- [Lead Acquisition Playbook](21.%20Lead%20Acquisition%20Playbook.md)
