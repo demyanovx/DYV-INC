@@ -25,6 +25,7 @@
 
 ### Арбитраж и операционка
 - Offer Database
+- Lead Monetization Funnel
 - Experiments
 - Weekly Dashboard
 - Decision Log
@@ -49,6 +50,7 @@
 - не хранить важные решения только в чатах;
 - результаты тестов заносить в Experiments;
 - изменения офферов заносить в Offer Database;
+- последовательность монетизации лида вести по Lead Monetization Funnel;
 - ключевые решения заносить в Decision Log;
 - каждую неделю обновлять Weekly Dashboard;
 - устаревшую информацию помечать, а не оставлять без пояснения.
